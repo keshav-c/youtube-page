@@ -2,13 +2,38 @@ header {
     border-bottom: 1px solid black;
 }
 
-#search-bar {
-    margin-left: auto;
-    margin-right: auto;
+.sticky {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background-color: white;
+    /* z-index: 10; */
 }
 
 #search-div {
     text-align: center;
-    display: inline-block;
-   
+    display: inline;
+    /* width: 200px; */
+    /* margin: 0 auto; */
+    margin-left: 20%;
+    padding: 0;
+    
+}
+
+#search-form {
+    display: inline
+}
+
+#search-bar {
+    height: 50px;
+    margin: 0;
+    padding: 0;
+    font-size: 40px;
+    /* display: inline; */
+}
+
+#search-button {
+    margin: 0px;
+    padding: 0;
+    /* display: inline; */
 }
