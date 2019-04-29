@@ -37,3 +37,22 @@ header {
     padding: 0;
     /* display: inline; */
 }
+
+#main-section {
+    padding: 50px 0 0 50px;
+    width: 50%;
+}
+
+#video-title {
+    font-family: 'Roboto', sans-serif;
+}
+
+#video-actions {
+    display: inline;
+    float: right;
+}
+
+#video-actions img {
+    margin-top: 
+    margin-left: 20px;
+}
