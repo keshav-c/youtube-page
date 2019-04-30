@@ -43,6 +43,7 @@ header {
 
 #video-actions {
     float: right;
+    margin-right: 30px;
 }
 
 #video-actions img {
@@ -84,4 +85,39 @@ h4 {
 
 ul {
     list-style-type: none;
+}
+
+#subscribe-btn {
+    background-color: red;
+    font-size: 20px;
+    color:white;
+    float: right;
+    padding: 15px;    
+}
+
+#author {
+    display: inline-block;
+}
+
+#show-more {
+    border: none;
+    background-color: white;
+    font-size: 15px;
+    margin-top: 30px;  
+}
+
+#author-img {
+    display: inline-block;
+}
+
+#publish-inf {
+    display: inline-block;
+    /* position: relative; */
+}
+
+#subscribe-div {
+    display: inline-block;
+    float: right;
+    margin-right: 30px;
+    margin-top: 20px;
 }
