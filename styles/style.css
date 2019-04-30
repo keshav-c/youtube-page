@@ -7,14 +7,11 @@ header {
     top: 0;
     width: 100%;
     background-color: white;
-    /* z-index: 10; */
 }
 
 #search-div {
     text-align: center;
     display: inline;
-    /* width: 200px; */
-    /* margin: 0 auto; */
     margin-left: 20%;
     padding: 0;
     
@@ -29,11 +26,27 @@ header {
     margin: 0;
     padding: 0;
     font-size: 40px;
-    /* display: inline; */
 }
 
 #search-button {
     margin: 0px;
     padding: 0;
-    /* display: inline; */
+}
+
+#main-section {
+    padding: 50px 0 0 50px;
+    width: 50%;
+}
+
+#video-title {
+    font-family: 'Roboto', sans-serif;
+}
+
+#video-actions {
+    float: right;
+}
+
+#video-actions img {
+    margin-top: 0px;
+    margin-left: 20px;
 }
