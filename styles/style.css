@@ -37,6 +37,11 @@ header {
     display: inline-block;
 }
 
+iframe {
+    height: 500px;
+    width: 90%;
+}
+
 #video-title {
     font-family: 'Roboto', sans-serif;
 }
